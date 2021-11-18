@@ -61,7 +61,33 @@ build/lab1.cpp.o: lab1.cpp \
  /opt/trampoline/os/tpl_os_interrupt.h /opt/trampoline/os/tpl_os_task.h \
  /opt/trampoline/os/tpl_os_resource.h \
  /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/coroBoard.h \
- /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/mcp23s17.h
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/mcp23s17.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/tft.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-ST7735-Library/Adafruit_ST7735.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-ST7735-Library/Adafruit_ST77xx.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/arduinoCore/Print.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/inttypes.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/sys/_locale.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/string.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/strings.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/sys/string.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/arduinoCore/Printable.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/stdlib.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/cstdlib \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m/nofp/bits/c++config.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m/nofp/bits/os_defines.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m/nofp/bits/cpu_defines.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/stdlib.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/machine/stdlib.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/alloca.h \
+ /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/bits/std_abs.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_GFX.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/gfxfont.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_SPITFT.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/../../spi.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_GFX.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_SPITFT_Macros.h \
+ /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_SPITFT_Macros.h
 /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/stdio.h:
 /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/_ansi.h:
 /opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/newlib.h:
@@ -134,3 +160,29 @@ lab1/MemMap.h:
 /opt/trampoline/os/tpl_os_resource.h:
 /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/coroBoard.h:
 /opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/mcp23s17.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/tft.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-ST7735-Library/Adafruit_ST7735.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-ST7735-Library/Adafruit_ST77xx.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/arduinoCore/Print.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/inttypes.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/sys/_locale.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/string.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/strings.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/sys/string.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/arduinoCore/Printable.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/stdlib.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/cstdlib:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m/nofp/bits/c++config.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m/nofp/bits/os_defines.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m/nofp/bits/cpu_defines.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/stdlib.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/machine/stdlib.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/alloca.h:
+/opt/gcc-arm-none-eabi-10.3-2021.07/arm-none-eabi/include/c++/10.3.1/bits/std_abs.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_GFX.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/gfxfont.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_SPITFT.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/../../spi.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_GFX.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_SPITFT_Macros.h:
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/tft/Adafruit-GFX-Library/Adafruit_SPITFT_Macros.h:
