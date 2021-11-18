@@ -1,0 +1,6 @@
+/opt/trampoline/os/tpl_os_task_kernel.c:55:27:tpl_activate_task_service	8	static
+/opt/trampoline/os/tpl_os_task_kernel.c:105:27:tpl_terminate_task_service	16	static
+/opt/trampoline/os/tpl_os_task_kernel.c:151:27:tpl_chain_task_service	16	static
+/opt/trampoline/os/tpl_os_task_kernel.c:238:27:tpl_schedule_service	16	static
+/opt/trampoline/os/tpl_os_task_kernel.c:288:27:tpl_get_task_id_service	8	static
+/opt/trampoline/os/tpl_os_task_kernel.c:331:27:tpl_get_task_state_service	16	static

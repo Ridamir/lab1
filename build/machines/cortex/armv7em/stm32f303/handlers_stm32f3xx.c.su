@@ -1,0 +1,8 @@
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:34:20:NMI_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:42:20:HardFault_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:80:20:MemManage_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:88:20:BusFault_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:96:20:UsageFault_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:109:20:DebugMonitor_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:116:20:PendSV_Handler	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/handlers_stm32f3xx.c:126:6:SysTick_ClearFlag	0	static

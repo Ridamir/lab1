@@ -1,0 +1,2 @@
+/opt/trampoline/os/tpl_os_action.c:40:21:tpl_action_callback	0	static
+/opt/trampoline/os/tpl_os_action.c:55:21:tpl_action_activate_task	0	static

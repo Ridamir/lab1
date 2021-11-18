@@ -1,0 +1,6 @@
+/opt/trampoline/machines/cortex/armv7em/stm32f303/startup_stm32f3xx.c:140:49:system_init	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/startup_stm32f3xx.c:73:13:__libc_init_array	16	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/startup_stm32f3xx.c:93:13:__libc_fini_array	16	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/startup_stm32f3xx.c:109:50:tpl_continue_reset_handler	8	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/startup_stm32f3xx.c:161:6:assert_failed	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/startup_stm32f3xx.c:165:6:__cxa_pure_virtual	0	static

@@ -1,0 +1,10 @@
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:83:25:tpl_get_interrupt_lock_status	0	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:102:21:tpl_reset_interrupt_lock_status	0	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:228:27:tpl_terminate_isr2_service	8	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:266:21:tpl_null_it	0	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:172:21:tpl_enable_all_interrupts_service	0	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:156:21:tpl_disable_all_interrupts_service	8	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:132:21:tpl_resume_all_interrupts_service	0	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:117:21:tpl_suspend_all_interrupts_service	8	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:202:21:tpl_resume_os_interrupts_service	0	static
+/opt/trampoline/os/tpl_os_interrupt_kernel.c:187:21:tpl_suspend_os_interrupts_service	8	static

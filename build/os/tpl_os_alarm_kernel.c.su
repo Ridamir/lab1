@@ -1,0 +1,6 @@
+/opt/trampoline/os/tpl_os_alarm_kernel.c:66:21:tpl_raise_alarm	0	static
+/opt/trampoline/os/tpl_os_alarm_kernel.c:87:27:tpl_get_alarm_base_service	16	static
+/opt/trampoline/os/tpl_os_alarm_kernel.c:133:27:tpl_get_alarm_service	16	static
+/opt/trampoline/os/tpl_os_alarm_kernel.c:202:27:tpl_set_rel_alarm_service	16	static
+/opt/trampoline/os/tpl_os_alarm_kernel.c:284:27:tpl_set_abs_alarm_service	16	static
+/opt/trampoline/os/tpl_os_alarm_kernel.c:358:27:tpl_cancel_alarm_service	16	static

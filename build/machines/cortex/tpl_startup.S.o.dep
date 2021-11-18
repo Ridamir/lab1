@@ -1,0 +1,10 @@
+build/machines/cortex/tpl_startup.S.o: \
+ /opt/trampoline/machines/cortex/tpl_startup.S \
+ /opt/trampoline/os/tpl_as_memmap.h lab1/tpl_app_define.h \
+ /opt/trampoline/os/tpl_config_def.h \
+ /opt/trampoline/os/tpl_config_check.h lab1/AsMemMap.h
+/opt/trampoline/os/tpl_as_memmap.h:
+lab1/tpl_app_define.h:
+/opt/trampoline/os/tpl_config_def.h:
+/opt/trampoline/os/tpl_config_check.h:
+lab1/AsMemMap.h:

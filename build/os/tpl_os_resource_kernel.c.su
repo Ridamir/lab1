@@ -1,0 +1,3 @@
+/opt/trampoline/os/tpl_os_resource_kernel.c:84:21:tpl_release_all_resources	0	static
+/opt/trampoline/os/tpl_os_resource_kernel.c:122:27:tpl_get_resource_service	8	static
+/opt/trampoline/os/tpl_os_resource_kernel.c:208:27:tpl_release_resource_service	8	static

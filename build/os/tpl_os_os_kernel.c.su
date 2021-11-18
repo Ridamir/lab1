@@ -1,0 +1,4 @@
+/opt/trampoline/os/tpl_os_os_kernel.c:77:37:tpl_get_active_application_mode_service	8	static
+/opt/trampoline/os/tpl_os_os_kernel.c:105:21:tpl_start_os_service	8	static
+/opt/trampoline/os/tpl_os_os_kernel.c:173:21:tpl_call_shutdown_os	0	static
+/opt/trampoline/os/tpl_os_os_kernel.c:193:21:tpl_shutdown_os_service	0	static

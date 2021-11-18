@@ -1,0 +1,4 @@
+/opt/trampoline/os/tpl_os_timeobj_kernel.c:50:21:tpl_enable_counters	0	static
+/opt/trampoline/os/tpl_os_timeobj_kernel.c:64:21:tpl_insert_time_obj	12	static
+/opt/trampoline/os/tpl_os_timeobj_kernel.c:144:21:tpl_remove_time_obj	0	static
+/opt/trampoline/os/tpl_os_timeobj_kernel.c:312:21:tpl_counter_tick	16	static

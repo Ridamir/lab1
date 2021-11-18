@@ -1,0 +1,12 @@
+lab1.oil: \
+ /opt/trampoline/goil/templates/config/config.oil \
+ /opt/trampoline/goil/templates/config/kernel.oil \
+ /opt/trampoline/goil/templates/config/api.oil \
+ /opt/trampoline/goil/templates/config/api_STM.oil \
+ /opt/trampoline/goil/templates/config/api_ioc.oil \
+ /opt/trampoline/goil/templates/config/cortex/config.oil \
+ /opt/trampoline/goil/templates/config/cortex/armv7em/config.oil \
+ /opt/trampoline/goil/templates/config/cortex/armv7em/buildOptions.oil \
+ /opt/trampoline/goil/templates/config/cortex/armv7em/stm32f303/config.oil \
+ /opt/trampoline/goil/templates/config/cortex/armv7em/stm32f303/coroLabBoard/config.oil \
+ /opt/trampoline/goil/templates/config/config2.5.oil

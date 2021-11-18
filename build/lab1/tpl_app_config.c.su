@@ -1,0 +1,2 @@
+lab1/tpl_app_config.c:164:25:tpl_tick_SysTick	8	static
+lab1/tpl_app_config.c:586:21:SysTick_Handler	0	static

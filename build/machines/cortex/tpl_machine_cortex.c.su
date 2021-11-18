@@ -1,0 +1,7 @@
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:163:21:tpl_init_context	12	static
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:301:6:tpl_shutdown	0	static
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:84:22:tpl_init_machine_generic	0	static
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:91:22:tpl_init_machine_specific	8	static
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:295:6:tpl_init_machine	0	static
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:279:22:tpl_check_stack_footprint	0	static
+/opt/trampoline/machines/cortex/tpl_machine_cortex.c:290:6:idle_function	0	static

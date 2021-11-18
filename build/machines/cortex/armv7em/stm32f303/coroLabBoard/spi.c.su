@@ -1,0 +1,5 @@
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/spi.c:11:6:setupSPI	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/spi.c:48:6:beginTransaction	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/spi.c:57:6:endTransaction	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/spi.c:68:9:transfer8	8	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/coroLabBoard/spi.c:84:6:write8	0	static

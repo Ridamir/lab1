@@ -1,0 +1,7 @@
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:11:6:clockForGpio	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:22:5:pinMode	8	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:64:6:digitalWrite	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:75:6:digitalToggle	8	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:88:15:digitalRead	0	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:98:15:pinAlt	16	static
+/opt/trampoline/machines/cortex/armv7em/stm32f303/lib/pinAccess.c:127:15:pinAnalog	8	static

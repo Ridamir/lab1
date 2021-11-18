@@ -1,0 +1,16 @@
+build/machines/cortex/armv7em/tpl_ctx_switch.S.o: \
+ /opt/trampoline/machines/cortex/armv7em/tpl_ctx_switch.S \
+ /opt/trampoline/machines/cortex/tpl_assembler.h \
+ /opt/trampoline/machines/cortex/tpl_asm_definitions.h \
+ /opt/trampoline/machines/cortex/tpl_os_kernel_stack.h \
+ /opt/trampoline/os/tpl_as_memmap.h lab1/tpl_app_define.h \
+ /opt/trampoline/os/tpl_config_def.h \
+ /opt/trampoline/os/tpl_config_check.h lab1/AsMemMap.h
+/opt/trampoline/machines/cortex/tpl_assembler.h:
+/opt/trampoline/machines/cortex/tpl_asm_definitions.h:
+/opt/trampoline/machines/cortex/tpl_os_kernel_stack.h:
+/opt/trampoline/os/tpl_as_memmap.h:
+lab1/tpl_app_define.h:
+/opt/trampoline/os/tpl_config_def.h:
+/opt/trampoline/os/tpl_config_check.h:
+lab1/AsMemMap.h:
