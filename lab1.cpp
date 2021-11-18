@@ -22,8 +22,9 @@ TASK(task1)
     printf("call to ActivateTask() to task2 is performed\n");
 
     printf("call to ActivateTask() to task3 will be performed\n");
-    ActivateTask(task2);
+    ActivateTask(task3);
     printf("call to ActivateTask() to task3 is performed\n");
+    
     TerminateTask();
 }
 
